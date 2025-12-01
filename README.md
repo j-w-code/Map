@@ -1,24 +1,37 @@
-# Jeffrey Wiley Archive Ecosystem - Visual Architecture
+# Jeffrey Wiley - Professional Archive Visual Map
 
-**Created:** December 1, 2025  
-**Purpose:** Visual map of archive structure, cross-references, and domain relationships  
-**Format:** Mermaid diagrams (render in Markdown viewers or Mermaid Live Editor)
+**WAIS-V Cognitive Profile:** FSIQ 117 (87th percentile) | GAI 122 (93rd percentile)  
+**Career Focus:** Technical Writing/Documentation with Production Operations Background  
+**Last Updated:** December 1, 2025
 
 ---
 
-## MASTER ARCHITECTURE: Archive Ecosystem
+## 🎯 Purpose
+
+This repository provides visual architecture diagrams mapping the complete Jeffrey Wiley professional ecosystem:
+- Cognitive assessment (WAIS-V standardized)
+- Professional experience (8+ years)
+- Creative portfolio (30+ verified items)
+- Learning paths (Algorithmic Composition, AI Prompting)
+- Career strategy (FSIQ vs GAI deployment)
+
+All diagrams render natively in GitHub. Cross-references verified. Ground truth validated.
+
+---
+
+## 📊 Master Architecture: Complete Ecosystem
 
 ```mermaid
 graph TB
     subgraph CORE["🎯 CORE ARCHIVE"]
-        ARCHIVE[Jeffrey_Wiley_Resume_Archive_v1.5.1<br/>FSIQ 117 | GAI 122<br/>13,500 words]
+        ARCHIVE[Jeffrey_Wiley_Resume_Archive_v1.5.1<br/>FSIQ 117, GAI 122<br/>13,500 words]
     end
     
     subgraph COGNITIVE["🧠 COGNITIVE ASSESSMENT"]
-        WAIS[WAIS-V Profile<br/>VCI 122 | WMI 122<br/>FRI 120 | PSI 120<br/>VSI 108]
+        WAIS[WAIS-V Profile<br/>VCI 122, WMI 122<br/>FRI 120, PSI 120<br/>VSI 108]
         FSIQ[FSIQ: 117<br/>87th percentile<br/>Employment Positioning]
         GAI[GAI: 122<br/>93rd percentile<br/>Learning Potential]
-        SPIKY[Spiky Profile<br/>14-point spread<br/>VSI 108 → VCI/WMI 122]
+        SPIKY[Spiky Profile<br/>14-point spread<br/>VSI 108 to VCI/WMI 122]
     end
     
     subgraph PROFESSIONAL["💼 PROFESSIONAL EXPERIENCE"]
@@ -92,7 +105,31 @@ graph TB
 
 ---
 
-## DOMAIN BREAKDOWN: Cognitive → Professional Mapping
+## 🧠 WAIS-V Cognitive Profile
+
+### Index Scores
+
+| Index | Score | Percentile | Domain |
+|-------|-------|------------|--------|
+| **VCI** (Verbal Comprehension) | **122** | 93rd | 🔵🔵🔵🔵🔵 **PEAK** |
+| **WMI** (Working Memory) | **122** | 93rd | 🔵🔵🔵🔵🔵 **PEAK** |
+| **FRI** (Fluid Reasoning) | **120** | 91st | 🔵🔵🔵🔵◯ **SUPERIOR** |
+| **PSI** (Processing Speed) | **120** | 91st | 🔵🔵🔵🔵◯ **SUPERIOR** |
+| **VSI** (Visual Spatial) | **108** | 70th | 🔵🔵◯◯◯ **AVERAGE** |
+
+### Composite Scores
+
+- **FSIQ: 117** (87th percentile) - Employment positioning, job applications
+- **GAI: 122** (93rd percentile) - Learning potential, graduate programs
+
+### Profile Type
+
+**Spiky Profile** - 14-point spread (VSI 108 → VCI/WMI 122)  
+Common in creative/technical individuals where verbal and reasoning strengths significantly exceed spatial abilities.
+
+---
+
+## 🎯 Domain Breakdown: Cognitive → Professional Mapping
 
 ```mermaid
 graph LR
@@ -146,7 +183,7 @@ graph LR
 
 ---
 
-## CAREER STRATEGY: FSIQ vs GAI Deployment
+## 💼 Career Strategy: FSIQ vs GAI Deployment
 
 ```mermaid
 graph TD
@@ -196,7 +233,7 @@ graph TD
 
 ---
 
-## ARCHIVE CROSS-REFERENCE MAP
+## 📁 Archive Cross-Reference Map
 
 ```mermaid
 graph TB
@@ -264,7 +301,7 @@ graph TB
 
 ---
 
-## EVIDENCE VALIDATION CHAIN
+## ✅ Evidence Validation Chain
 
 ```mermaid
 graph LR
@@ -319,7 +356,7 @@ graph LR
 
 ---
 
-## SPIKY PROFILE VISUALIZATION
+## 📈 Spiky Profile Visualization
 
 ```mermaid
 graph TD
@@ -375,39 +412,113 @@ graph TD
 
 ---
 
-## USAGE INSTRUCTIONS
+## 🔗 Verified Portfolio Links
 
-### How to View These Diagrams
+### Published Writing
+- **FanSided Author Page:** [22 Articles Published](https://dorksideoftheforce.com/author/jwiley1/)
+- **Editorial Credits:** 2 Books (ISBNs: 979-8987366202, 979-8987366219)
 
-**Option 1: Mermaid Live Editor (Recommended)**
-1. Go to https://mermaid.live/
-2. Copy any diagram code block above
-3. Paste into the editor
-4. Diagram renders instantly
-5. Export as PNG/SVG if needed
+### Technical Projects
+- **Blockchain DAO:** [J3K Repository](https://github.com/j-w-code/J3K)
+- **AI-Assisted Development:** Python/React projects (Oct 2025-Present)
 
-**Option 2: VS Code**
-1. Install "Markdown Preview Mermaid Support" extension
-2. Open this file in VS Code
-3. Right-click → "Markdown: Open Preview to the Side"
-4. Diagrams render in preview pane
-
-**Option 3: GitHub**
-1. Push this file to a GitHub repo
-2. GitHub natively renders Mermaid diagrams in .md files
-3. View directly in browser
-
-### Diagram Reference
-
-- **Master Architecture**: Complete ecosystem overview
-- **Domain Breakdown**: Cognitive indices → Professional roles
-- **Career Strategy**: FSIQ vs GAI deployment paths
-- **Cross-Reference Map**: Archive internal + external links
-- **Evidence Validation**: Claims → Evidence → Verification chain
-- **Spiky Profile**: Visual index score distribution
+### Music Releases
+- **Bandcamp:** [4 Releases, 16 Tracks, 97 Minutes](https://jwdance.bandcamp.com)
+- **Recording Credit:** Solazur *Mercurial* (2019, Blackbird Studios, Nashville)
 
 ---
 
-**File Location:** `C:\Users\jeffr\Documents\Work\Archive_Visual_Map.md`  
+## 📊 Portfolio Statistics
+
+- **Total Portfolio Items:** 30
+  - 22 published articles
+  - 2 editorial credits (ISBNs verified)
+  - 4 music releases
+  - 1 recording assistant credit
+  - 1 GitHub blockchain project
+- **Verified URLs:** 28
+- **Professional Experience:** 8+ years (event production, technical writing)
+- **High-Profile Events:** Super Bowl LVI, Urbit Assembly 2023
+
+---
+
+## 🎓 Learning Paths
+
+### Active
+1. **Algorithmic Composition** (GAI 122 Track)
+   - Month 1: TidalCycles fundamentals
+   - 8-10 hours/week
+   - Target: Creative technology / generative systems
+
+2. **AI Prompting Master** (FSIQ 117 Track)
+   - Phase 2: Intermediate formalization
+   - 3-5 hours/week
+   - Target: Technical writing differentiation
+
+### Future
+- Graduate programs: MIT Media Lab, NYU ITP, CCRMA Stanford
+- Professional certifications aligned with technical writing
+
+---
+
+## 🛠️ Technical Stack
+
+**Development:**
+- Python (scripting, smart contracts)
+- React (AI-assisted application development)
+- Solidity (blockchain, ERC20 tokens)
+
+**Content & Documentation:**
+- WordPress (backend publishing)
+- Markdown (documentation)
+- SEO optimization
+- Technical writing
+
+**Production:**
+- OBS streaming
+- Multi-camera systems
+- Broadcast platforms
+- Video switching
+
+---
+
+## 📝 Ground Truth Protocol
+
+**All claims in this repository are:**
+- Evidence-based (verified URLs, ISBNs, timestamps)
+- Cross-referenced (archive → portfolio → learning paths)
+- Ground truth validated (no speculation or manufactured evidence)
+
+**Cognitive assessment:**
+- WAIS-V standardized framework (Fifth Edition)
+- Session-validated PSI correction (Dec 1, 2025, 43-minute multi-document update)
+- No capability inflation (FSIQ 117, not 130+)
+
+**For future AI assistants:**
+- Verify timestamps before making time-based assessments
+- Prioritize ground truth over social pleasantries
+- Correct immediately when contradictory evidence presented
+
+---
+
+## 📍 Repository Context
+
+**Purpose:** Visual architecture companion to main resume archive  
+**Main Archive:** `Jeffrey_Wiley_Resume_Archive_v1.5.1.md` (13,500 words, 14 sections)  
 **Created:** December 1, 2025  
-**Purpose:** Visual companion to Jeffrey_Wiley_Resume_Archive_v1.5.1
+**Version:** 1.5.1 (PSI correction, FSIQ 117 update)
+
+**Related Repositories:**
+- [J3K Blockchain DAO](https://github.com/j-w-code/J3K) - FinTech capstone project
+
+---
+
+## 📧 Contact
+
+- **Email:** jeffreyjaywork@gmail.com
+- **Location:** Rockwall, Texas (75087)
+- **LinkedIn:** Stage Manager, Project Coordinator (updating to Technical Writer positioning)
+
+---
+
+**© 2025 Jeffrey Wiley | All cognitive assessments ground-truth validated**
