@@ -493,12 +493,7 @@ graph TD
 - WAIS-V standardized framework (Fifth Edition)
 - Session-validated PSI correction (Dec 1, 2025, 43-minute multi-document update)
 - No capability inflation (FSIQ 117, not 130+)
-
-**For future AI assistants:**
-- Verify timestamps before making time-based assessments
-- Prioritize ground truth over social pleasantries
-- Correct immediately when contradictory evidence presented
-
+  
 ---
 
 ## 📍 Repository Context
